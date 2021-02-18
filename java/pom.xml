@@ -28,7 +28,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.resources.sourceEncoding>UTF-8</project.resources.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
         <okhttp.version>4.2.0</okhttp.version>
     </properties>
 
